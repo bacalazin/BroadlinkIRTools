@@ -1,11 +1,13 @@
+# FORKED FROM 
+https://github.com/callumgare/BroadlinkIRTools
 # NEW TOOL URL HERE
-https://keitetran.github.io/BroadlinkIRTools/dist/#/
+https://bacalazin.github.io/BroadlinkIRTools
 
 I was publish full source code and change tool url. Please help me fix bug when HASS APi was change. 
 # Broadlink tools
 
 This tool support for SmartIR  https://github.com/smartHomeHub/SmartIR <br>
-You can use it from this page  https://keitetran.github.io/BroadlinkIRTools/dist/#/
+You can use it from this page  https://bacalazin.github.io/BroadlinkIRTools
 
 ## How it work
 - Disable ads block on browser. I dont add anymore ads to this site, but adblocker will block connection to your hass :( Sorry for the inconvenience
@@ -21,7 +23,7 @@ You can use it from this page  https://keitetran.github.io/BroadlinkIRTools/dist
 
 # For developer 
 ```
-git clone https://github.com/keitetran/BroadlinkIRTools.git
+git clone https://github.com/bacalazin/BroadlinkIRTools.git
 cd BroadlinkIRTools
 npm i
 npm run dev
